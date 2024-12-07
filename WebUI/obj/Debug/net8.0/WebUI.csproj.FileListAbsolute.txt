@@ -142,3 +142,6 @@ D:\Resume Management Fullstack\WebUI\obj\Debug\net8.0\refint\WebUI.dll
 D:\Resume Management Fullstack\WebUI\obj\Debug\net8.0\WebUI.pdb
 D:\Resume Management Fullstack\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
 D:\Resume Management Fullstack\WebUI\obj\Debug\net8.0\ref\WebUI.dll
+D:\Resume Management Fullstack\WebUI\obj\Debug\net8.0\WebUI.sourcelink.json
+D:\Resume Management Fullstack\WebUI\bin\Debug\net8.0\AutoMapper.dll
+D:\Resume Management Fullstack\WebUI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

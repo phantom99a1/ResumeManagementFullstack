@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Resume Management Fullstack\\WebUI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B2FB88-E943-42EA-99BE-5832A5D9D18E}|WebUI.csproj|d:\\resume management fullstack\\webui\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B2FB88-E943-42EA-99BE-5832A5D9D18E}|WebUI.csproj|solutionrelative:core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,6 +79,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Resume Management Fullstack\\WebUI\\Core\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Resume Management Fullstack\\WebUI\\Core\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Core\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:23:51.025Z",
+              "EditorCaption": ""
             }
           ]
         }
