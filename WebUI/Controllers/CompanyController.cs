@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using WebUI.Core.Context;
 using WebUI.Core.DTOs.Company;
 using WebUI.Core.Entities;
@@ -30,5 +31,15 @@ namespace WebUI.Controllers
             await _context.SaveChangesAsync();
             return Ok("Company Created Successfully!");
         }
+
+        //Read
+        [HttpGet]
+        [Route("Get")]
+        public async Task<ActionResult<IEnumerable<CompanyGetDTO>>> GetCompanies()
+        {
+            var companies = await _context.Companies.OrderByDescending(m => m.CreatedAt).ToListAsync();
+            var convertedCompanies = _mapper.Map<IEnumerable<CompanyGetDTO>>(companies);
+            return Ok(convertedCompanies);
+        } 
     }
 }

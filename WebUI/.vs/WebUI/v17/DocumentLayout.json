@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Resume Management Fullstack\\WebUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9B2FB88-E943-42EA-99BE-5832A5D9D18E}|WebUI.csproj|d:\\resume management fullstack\\webui\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B2FB88-E943-42EA-99BE-5832A5D9D18E}|WebUI.csproj|solutionrelative:core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9B2FB88-E943-42EA-99BE-5832A5D9D18E}|WebUI.csproj|d:\\resume management fullstack\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B2FB88-E943-42EA-99BE-5832A5D9D18E}|WebUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B2FB88-E943-42EA-99BE-5832A5D9D18E}|WebUI.csproj|d:\\resume management fullstack\\webui\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B2FB88-E943-42EA-99BE-5832A5D9D18E}|WebUI.csproj|solutionrelative:controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B2FB88-E943-42EA-99BE-5832A5D9D18E}|WebUI.csproj|d:\\resume management fullstack\\webui\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B2FB88-E943-42EA-99BE-5832A5D9D18E}|WebUI.csproj|solutionrelative:controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Resume Management Fullstack\\WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Resume Management Fullstack\\WebUI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:46:31.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "D:\\Resume Management Fullstack\\WebUI\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CandidateController.cs",
+              "ToolTip": "D:\\Resume Management Fullstack\\WebUI\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "Controllers\\CandidateController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:43:15.134Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -82,15 +116,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Resume Management Fullstack\\WebUI\\Core\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Core\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Resume Management Fullstack\\WebUI\\Core\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Core\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBwAAAA9AAAA",
+              "DocumentIndex": 2,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "D:\\Resume Management Fullstack\\WebUI\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobController.cs",
+              "ToolTip": "D:\\Resume Management Fullstack\\WebUI\\Controllers\\JobController.cs",
+              "RelativeToolTip": "Controllers\\JobController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T06:23:51.025Z",
+              "WhenOpened": "2024-12-09T09:34:57.124Z",
               "EditorCaption": ""
             }
           ]
